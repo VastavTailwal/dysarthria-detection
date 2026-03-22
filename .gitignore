@@ -6,3 +6,4 @@ models/ann.keras
 models/cnn.keras
 models/hybrid.keras
 models/capsnet.keras
+dysarthria.ipynb
